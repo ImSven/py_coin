@@ -3,5 +3,4 @@ hello
 world
 skynet
 lua
-
-ddd
+end
